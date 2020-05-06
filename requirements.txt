@@ -8,7 +8,7 @@ gunicorn==19.8.1
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
-MarkupSafe==1.0
+MarkupSafe==1.1.1
 pyasn1==0.4.3
 pyasn1-modules==0.2.2
 pytz==2018.4
@@ -17,3 +17,6 @@ rsa==3.4.2
 six==1.11.0
 urllib3==1.23
 Werkzeug==0.14.1
+Cython==0.29.17
+websocket-client-py3==0.15.0
+pydub==0.23.1
